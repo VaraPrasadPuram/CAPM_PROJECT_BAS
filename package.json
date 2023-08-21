@@ -1,0 +1,19 @@
+{
+  "name": "CAPM_PROJECT",
+  "version": "1.0.0",
+  "description": "A simple CAP project.",
+  "repository": "<Add your repository here>",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "@sap/cds": "^7",
+    "express": "^4",
+    "sqlite": "^3.0.6"
+  },
+  "devDependencies": {
+    "sqlite": "^3.0.6"
+  },
+  "scripts": {
+    "start": "cds-serve"
+  }
+}
